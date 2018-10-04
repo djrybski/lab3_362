@@ -236,6 +236,14 @@ input[type="checkbox"]{
   margin-right: auto;
   width: 40%;
 }
+nput[type="submit"]{
+  width: 96 pixel ;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
 
 form li {
   padding: 10px;
