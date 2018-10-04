@@ -228,6 +228,20 @@ input[type="checkbox"]{
   display: block;
 }
 
+form li {
+  padding: 0.7em;
+}
+
+h1 {
+  font-size: 1.3em;
+  font-weight: bold;
+}
+p {
+  font-size: 1.0em;
+  padding: 0.6em;
+  text-align: center;
+  font-family: Impact, Charcoal, sans-serif;
+}
    
 /* ===== LAYOUT STYLES ====== */
 
