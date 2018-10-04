@@ -192,16 +192,42 @@ img, audio, video {
 */
 
 html {
+  background-color: #F0F8FF;
   font-size: 1.375em; /* 22px */
   line-height: 1.182em; /* 26px / ~ 120% */
   padding: 1.182em; /* 26px / ~ 120% */
   text-rendering: optimizeLegibility;
-}
+  }
 
 label {
   display: block;
 }
 
+ #input-submit, #input-age-verification, #input-email {
+   width: 100%;
+   margin: auto;
+}
+
+h1{
+   font-family: Century Gothic;
+   text-align: center;
+}
+
+   input {
+   width: 100%;
+   height: 100px;
+   padding: 50px;
+   border: 1px dark grey;
+   box-sizing: border-box
+}
+
+input[type="checkbox"]{
+  width: auto;
+  height: auto;
+  display: block;
+}
+
+   
 /* ===== LAYOUT STYLES ====== */
 
 /* ===== MODULAR STYLES ===== */
