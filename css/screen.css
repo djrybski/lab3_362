@@ -206,8 +206,6 @@ label {
  #input-submit, #input-age-verification, #input-email {
    width: 100%;
    margin: auto;
-   
-    
 }
 
 h1{
@@ -219,10 +217,11 @@ input {
    text-align: center;
    border: 1px dark grey;
    box-sizing: border-box;
-   
-   
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 40%;
 }
-
 input[type="checkbox"]{
   width: auto;
   height: auto;
