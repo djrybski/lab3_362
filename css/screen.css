@@ -200,7 +200,7 @@ html {
   }
 
 label {
-  display: block;
+  display: inline-block;
 }
 
  #input-submit, #input-age-verification, #input-email {
@@ -228,7 +228,7 @@ input {
 input[type="checkbox"]{
   width: auto;
   height: auto;
-  display: block;
+  display: inline-block;
 }
 
 form li {
