@@ -231,7 +231,8 @@ input[type="checkbox"]{
 }
 
 form li {
-  padding: 1.0em;
+  padding: 10px;
+  background-color: #DCDCDC;
 }
 
 h1 {
@@ -239,8 +240,8 @@ h1 {
   font-weight: ;
 }
 p {
-  font-size: 1.0em;
-  padding: 1.0em;
+  font-size: 24px;
+  padding: 10px;
   text-align: center;
   font-family: Impact, Charcoal, sans-serif;
 }
