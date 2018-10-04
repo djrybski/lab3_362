@@ -222,6 +222,8 @@ input {
    text-align: center;
    border: 1px dark grey;
    box-sizing: border-box;
+   top: 50%;
+	left: 50%;
    
 }
 
@@ -229,10 +231,11 @@ input[type="checkbox"]{
   width: auto;
   height: auto;
   display: inline-block;
+  
 }
 
 form li {
-  padding: 10px;
+  padding: 20px;
 }
 
 h1 {
