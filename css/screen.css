@@ -212,8 +212,7 @@ h1{
    font-family: Century Gothic;
    text-align: center;
 }
-
-   input {
+input {
    width: 40%;
    height: 100px;
    padding: 50px;
@@ -229,16 +228,16 @@ input[type="checkbox"]{
 }
 
 form li {
-  padding: 0.7em;
+  padding: 1.0 em;
 }
 
 h1 {
-  font-size: 1.3em;
-  font-weight: bold;
+  font-size: small;
+  font-weight: ;
 }
 p {
   font-size: 1.0em;
-  padding: 0.6em;
+  padding: 1.0em;
   text-align: center;
   font-family: Impact, Charcoal, sans-serif;
 }
