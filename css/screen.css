@@ -265,5 +265,9 @@ p {
    
 @media screen and (max-width: 960px) {
 	input{
-	 background-color: #909090;
+	background-color: #909090;
+	}
+	h1 {
+	font-size: 24px;
+  	padding-top: 10px;
 	}
