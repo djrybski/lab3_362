@@ -201,9 +201,13 @@ html {
 
 label {
   display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  font-family: Verdana, Geneva, sans-serif;
 }
 
- #input-submit, #input-age-verification, #input-email {
+#input-submit, #input-age-verification, #input-email {
    width: 100%;
    margin: auto;
 }
@@ -212,6 +216,7 @@ h1{
    font-family: Century Gothic;
    text-align: center;
 }
+
 input {
    background-color: #DCDCDC;
    text-align: center;
@@ -222,12 +227,15 @@ input {
    margin-right: auto;
    width: 40%;
 }
+
 input[type="checkbox"]{
   width: auto;
   height: auto;
-  display: inline-block;
-	
- }
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
 
 form li {
   padding: 10px;
@@ -239,6 +247,7 @@ form li {
 h1 {
   font-size: 48px;
 }
+
 p {
   font-size: 24px;
   padding: 10px;
@@ -246,8 +255,3 @@ p {
   font-family: Impact, Charcoal, sans-serif;
 }
    
-/* ===== LAYOUT STYLES ====== */
-
-/* ===== MODULAR STYLES ===== */
-
-/* ===== STATE STYLES ======= */
