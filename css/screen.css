@@ -200,7 +200,7 @@ html {
   }
 
 label {
-  display: inline-block;
+  display: block;
 }
 
  #input-submit, #input-age-verification, #input-email {
