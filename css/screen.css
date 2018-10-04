@@ -217,6 +217,7 @@ h1{
    width: 40%;
    height: 100px;
    padding: 50px;
+   text-align: center;
    border: 1px dark grey;
    box-sizing: border-box
 }
